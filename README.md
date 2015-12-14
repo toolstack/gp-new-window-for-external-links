@@ -1,3 +1,2 @@
-# GlotPress Remove Projects from Breadcrumbs
-A plugin for [GlotPress as a WordPress plugin](https://github.com/deliciousbrains/GlotPress) that uses the translation set slug for the name of the download file name.
-
+# GlotPress New Window for External Links
+Open a new window any time an external link is selected in GlotPress.
