@@ -3,8 +3,8 @@
 Plugin Name: GP New Window for External Links
 Plugin URI: http://glot-o-matic.com/gp-new-window-for-external-links
 Description: Open a new window any time an external link is selected in GlotPress.
-Version: 0.5
-Author: GregRoss
+Version: 1.0
+Author: Greg Ross
 Author URI: http://toolstack.com
 Tags: glotpress, glotpress plugin 
 License: GPLv2
